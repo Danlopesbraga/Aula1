@@ -9,3 +9,11 @@
 
 em caso de problemas no push
 - git push -f origon main
+
+Aprendemos I/else
+Swetch Case
+
+https://codepen.io/Dan2312/pen/gOVXYyr?editors=0012
+
+https://codepen.io/Dan2312/pen/abewmOV
+https://codepen.io/Dan2312/pen/dyxMJLj
